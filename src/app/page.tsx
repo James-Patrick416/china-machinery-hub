@@ -1,12 +1,21 @@
+import Hero from "@/components/home/hero";
+import FeatureCards from "@/components/home/feature-cards";
+import FeaturedProducts from "@/components/home/featured-products";
+import AboutSection from "@/components/home/about-section";
+import TestimonialsSection from "@/components/home/testimonials-section";
+import PartnersSection from "@/components/home/partners-section";
+import ContactSection from "@/components/home/contact-section";
+
 export default function Home() {
   return (
-    <div className="container mx-auto px-4 py-16 text-center">
-      <h1 className="text-4xl font-bold tracking-tight text-zinc-100 sm:text-6xl">
-        China Machinery Hub
-      </h1>
-      <p className="mt-4 text-lg text-zinc-400">
-        East Africa Processing Machinery, Farm Analytics & Farmer Training
-      </p>
+    <div>
+      <Hero />
+      <FeatureCards />
+      <FeaturedProducts />
+      <AboutSection />
+      <TestimonialsSection />
+      <PartnersSection />
+      <ContactSection />
     </div>
   );
 }
