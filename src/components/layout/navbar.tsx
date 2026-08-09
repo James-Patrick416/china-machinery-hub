@@ -5,9 +5,9 @@ import Link from "next/link";
 import { Menu, X, MessageSquare, Wrench } from "lucide-react";
 
 const navLinks = [
-  { name: "Products", href: "/products" },
+  { name: "Products", href: "/catalog" },
   { name: "Profit Calculator", href: "/calculator" },
-  { name: "Training Academy", href: "/training" },
+  { name: "Training Academy", href: "/academy" },
 ];
 
 export default function Navbar() {

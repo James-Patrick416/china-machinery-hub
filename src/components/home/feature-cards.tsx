@@ -133,7 +133,7 @@ export default function FeatureCards() {
 
             <div className="mt-8 pt-4 border-t border-zinc-800/60">
               <Link
-                href="/training"
+                href="/academy"
                 className="inline-flex items-center gap-2 text-sm font-semibold text-emerald-500 hover:text-emerald-400 transition-colors"
               >
                 Browse Training Courses

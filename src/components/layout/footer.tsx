@@ -38,7 +38,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/training" className="hover:text-zinc-100 transition-colors">
+                <Link href="/academy" className="hover:text-zinc-100 transition-colors">
                   Chik Training Academy
                 </Link>
               </li>
