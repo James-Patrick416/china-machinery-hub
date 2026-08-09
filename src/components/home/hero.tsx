@@ -26,7 +26,7 @@ export default function Hero() {
           {/* Action Buttons (CTAs) */}
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
             <Link
-              href="/products"
+              href="/catalog"
               className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-lg bg-emerald-600 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-emerald-500 shadow-sm"
             >
               View Machinery Catalog

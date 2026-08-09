@@ -67,7 +67,7 @@ export default function FeaturedProducts() {
           </div>
 
           <Link
-            href="/products"
+            href="/catalog"
             className="inline-flex items-center gap-2 text-sm font-semibold text-emerald-500 hover:text-emerald-400 transition-colors shrink-0"
           >
             View Full Catalog (15+ Machines)

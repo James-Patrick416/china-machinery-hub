@@ -28,7 +28,7 @@ export default function Footer() {
             </h3>
             <ul className="space-y-2.5 text-sm">
               <li>
-                <Link href="/products" className="hover:text-zinc-100 transition-colors">
+                <Link href="/catalog" className="hover:text-zinc-100 transition-colors">
                   Machinery Catalog
                 </Link>
               </li>
