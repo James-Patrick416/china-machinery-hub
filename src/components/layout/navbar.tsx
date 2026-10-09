@@ -36,7 +36,7 @@ export default function Navbar() {
             </div>
             <div>
               <span className="text-sm font-black tracking-tight text-zinc-100 block leading-none">
-                CHINA MACHINERY <span className="text-emerald-400">HUB</span>
+                NAIROBI  MACHINERY <span className="text-emerald-400">HUB</span>
               </span>
               <span className="text-[10px] text-zinc-500 font-medium tracking-wide">
                 Direct Agro-Imports & Financing

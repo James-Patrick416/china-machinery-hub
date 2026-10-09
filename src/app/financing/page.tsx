@@ -159,7 +159,7 @@ export default function FinancingPage() {
               <ArrowRight className="h-4 w-4" />
             </Link>
             <a
-              href="https://wa.me/254700000000?text=Hello%20China%20Machinery%20Hub,%20I%20need%20assistance%20with%20bank%20financing%20and%20contract%20documents."
+              href="https://wa.me/254722382283?text=Hello%20Nairobi%20Machinery%20Hub,%20I%20need%20assistance%20with%20bank%20financing%20and%20contract%20documents."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-lg border border-zinc-700 bg-zinc-800 px-5 py-2.5 text-xs font-semibold text-zinc-200 transition-colors hover:bg-zinc-700"
