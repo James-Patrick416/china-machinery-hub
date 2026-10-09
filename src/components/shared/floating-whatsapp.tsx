@@ -2,8 +2,8 @@ import { MessageSquare } from "lucide-react";
 
 export default function FloatingWhatsApp() {
   const whatsappUrl =
-    "https://wa.me/254700000000?text=" +
-    encodeURIComponent("Hi China Machinery Hub, I'm interested in importing food processing machinery. Please assist me.");
+    "https://wa.me/254722382283?text=" +
+    encodeURIComponent("Hi Nairobi Machinery Hub, I'm interested in importing food processing machinery. Please assist me.");
 
   return (
     <a
