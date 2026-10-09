@@ -64,7 +64,7 @@ export default function Navbar() {
           {/* Call to Action Button */}
           <div className="hidden md:flex md:items-center md:gap-3">
             <a
-              href="https://wa.me/254700000000?text=Hello%20China%20Machinery%20Hub,%20I%20would%20like%20to%20inquire%20about%20machinery%20imports."
+              href="https://wa.me/254722382283?text=Hello%20Nairobi%20Machinery%20Hub,%20I%20would%20like%20to%20inquire%20about%20machinery%20imports."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center rounded-lg bg-emerald-600 px-3.5 py-2 text-xs font-semibold text-white transition-colors hover:bg-emerald-500 shadow-sm shadow-emerald-950"
@@ -106,7 +106,7 @@ export default function Navbar() {
           })}
           <div className="pt-3">
             <a
-              href="https://wa.me/254700000000?text=Hello%20China%20Machinery%20Hub,%20I%20would%20like%20to%20inquire%20about%20machinery%20imports."
+              href="https://wa.me/254722382283?text=Hello%20Nairobi%20Machinery%20Hub,%20I%20would%20like%20to%20inquire%20about%20machinery%20imports."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex w-full items-center justify-center rounded-lg bg-emerald-600 px-4 py-2.5 text-xs font-semibold text-white"
