@@ -1,0 +1,29 @@
+{
+  "whoWeAre": {
+    "title": "Who We Are",
+    "subtitle": "Direct Factory Sourcing & Agro-Engineering Partner",
+    "description": "Nairobi Machinery Hub (Nairobi) bridges Chinese manufacturer-direct agro-equipment with East African agricultural enterprises, commercial farms, SACCOs, and cooperatives. We handle factory verification, machinery customization, Mombasa CIF logistics, and field commissioning."
+  },
+  "milestones": [
+    {
+      "metric": "140+",
+      "label": "Verified Machinery Catalog Items",
+      "detail": "Posho mills, grain dryers, oil expellers, potato washers, and 4WD tractors."
+    },
+    {
+      "metric": "100%",
+      "label": "Direct Factory Transparency",
+      "detail": "Clear CIF Mombasa pricing and direct WhatsApp communication."
+    },
+    {
+      "metric": "KDC Bank",
+      "label": "Asset Financing Guidance",
+      "detail": "Structured support for low-interest development loan applications."
+    },
+    {
+      "metric": "Turnkey",
+      "label": "Water Tank & Data Telemetry",
+      "detail": "Integrated commercial rainwater harvesting setups and machine runtime tracking."
+    }
+  ]
+}
