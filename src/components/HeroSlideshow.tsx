@@ -9,9 +9,9 @@ interface Slide {
 }
 
 const slides: Slide[] = [
-  { url: "/images/tractor.webp", alt: "Agricultural Tractor" },
-  { url: "/images/tanks.webp", alt: "Water Harvesting Tanks" },
-  { url: "/images/data.webp", alt: "Farm Data Analytics" },
+  { url: "/images/tractor.webp", alt: "Commercial 4WD Agricultural Tractor" },
+  { url: "/images/tanks.webp", alt: "Water Harvesting Tank Installation" },
+  { url: "/images/data.webp", alt: "Farm Data Telemetry and Analytics" },
   { url: "/images/equip.webp", alt: "Agro Processing Equipment" },
 ];
 
@@ -32,7 +32,7 @@ export default function HeroSlideshow() {
         <div
           key={slide.url}
           className={`absolute inset-0 transition-opacity duration-1000 ease-in-out ${
-            index === currentIndex ? "opacity-35 scale-105" : "opacity-0 scale-100"
+            index === currentIndex ? "opacity-85 scale-105" : "opacity-0 scale-100"
           } transition-transform duration-7000`}
         >
           <Image
@@ -46,7 +46,9 @@ export default function HeroSlideshow() {
           />
         </div>
       ))}
-      <div className="absolute inset-0 bg-gradient-to-b from-zinc-950/90 via-zinc-950/70 to-zinc-950 z-10" />
+
+      {/* Balanced Overlay: Keeps text razor-sharp while letting full image colors pop */}
+      <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/50 to-zinc-950/30 z-10" />
     </div>
   );
 }
